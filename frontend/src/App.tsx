@@ -1,7 +1,7 @@
 import Header from './components/Header';
 import NotificationButton from './components/NotificationButton';
 import SalesCard from './components/SalesCard';
-import './index.css'
+import './index.css';
 
 function App() {
   return (
@@ -20,4 +20,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
